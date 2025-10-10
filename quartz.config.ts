@@ -15,8 +15,8 @@ const config: QuartzConfig = {
     analytics: {
       provider: "plausible",
     },
-    locale: "zh-TW",
-    baseUrl: "quartz.jzhao.xyz",
+    locale: "en-US",
+    baseUrl: "mido-maverick.github.io/quartz",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -29,13 +29,13 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
+          light: "rgb(253, 246, 227)",
+          lightgray: "rgb(238, 232, 213)",
+          gray: "rgb(147, 161, 161)",
+          darkgray: "rgb(131, 148, 150)",
+          dark: "rgb(101, 123, 131)",
+          secondary: "rgb(38, 139, 210)",
+          tertiary: "rgb(42, 161, 152)",
           highlight: "rgba(143, 159, 169, 0.15)",
           textHighlight: "#fff23688",
         },
