@@ -3,7 +3,6 @@ title: Welcome to Quartz
 description: A simple, markdown-based personal knowledge management system.
 aliases:
   - /
-  - /index.html
   - /home
 draft: false
 ---
