@@ -18,7 +18,7 @@ tags:
 
 ### [Color Quantization 色彩量化](https://wikipedia.org/wiki/Color_quantization)
 
-## My Color App
+## My Color Apps
 
 - [Color Palette 3D](https://color-palette-3d.vercel.app/)
 - [3D Palette](https://mido-maverick.github.io/posts/3d-palette/3d-palette.html)

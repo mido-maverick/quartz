@@ -1,0 +1,3 @@
+- [Code Monkey](https://www.youtube.com/@CodeMonkeyUnity)
+- [Thomas Brush](https://www.youtube.com/@thomasbrush)
+- [Chris Zukowski](https://howtomarketagame.com/)
