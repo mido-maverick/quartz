@@ -11,4 +11,4 @@ draft: false
 This is a blank Quartz installation.
 See the [documentation](https://quartz.jzhao.xyz) for how to get started.
 
-[[Foo]]
+[[Computer Science & Engineering (CSE) 電腦科學與工程]]
