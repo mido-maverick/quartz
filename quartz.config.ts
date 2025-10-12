@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Noto Sans TC",
-        body: "Noto Sans TC Thin",
+        body: "Noto Sans TC",
         code: "Cascadia Code Light",
       },
       colors: {
