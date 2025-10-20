@@ -4,6 +4,7 @@ tags:
 ---
 [[Full-Stack Development]]
 
-[[SOLID]]
-[[DRY vs WET]]
-[[KISS]]
+- [[SOLID]]
+- [[DRY vs WET]]
+- [[KISS]]
+- [[YAGNI]]
